@@ -1,5 +1,6 @@
 ### Olá, Me nome é Arthur Penha 🤗
 - 🏫 Aprendizados: JavaScript | HTML | CSS | C# | Node.js | Git | Sequelize | React.js | Angular
+- 👨‍🎓 Graduação: Cursando Sistemas de Informação na Universidade Santa Cecília
 - 📫 Contato: penharthur@hotmail.com
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
